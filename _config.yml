@@ -1,0 +1,56 @@
+# Site
+repository: sproogen/resume-theme
+# favicon: images/favicon.ico
+
+# Personal info
+name: Bart Biernat
+title: Programmer in training
+email: biernat.bart@gmail.com
+website: https://github.com/fo0s
+
+# Social links
+# twitter_username: fo0sies
+github_username:  fo0s
+# facebook_username: fo0sies@gmail.com
+# instagram_username: randomgoaty
+linkedin_username: bart-biernat-807a9783
+
+
+# About Section
+about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  I am a <mark>solution-oriented</mark> and <mark>proactive</mark> person who is looking to harness my passion for <mark>programming</mark> in a change of career.
+
+  Development is fundamentally a technical manifestation of a business problem and requires you to constantly question the world around you. I have a <mark>natural curiosity</mark> for how things work; from taking apart a mobile handset to writing automated scripts which I hope will serve me well in an industry where, to succeed, it is necessary to have an urge to understand things completely.
+
+  I frequently attend lectures and conferences to keep up to date with the fast paced changes in the technology.
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+more_title: When I'm not programming
+more_content: | # this will include new lines to allow paragraphs
+  I have a fasination with all things fermitation. A plethora of bubbling jars in my kitchen eventually turn into breads, pickles or wines.
+  When I'm not playing food scientist or in front on the computer, I'm out running or skateboarding or taking something apart to see how it works.
+
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag

@@ -1,0 +1,38 @@
+# Trader
+- company: Crypto-currency trader
+  position: Freelance
+  dates: May, 2017 &mdash; Present
+  # quote: >
+   # Place quote here when you think of something
+  description: | # New line
+    Trading between <mark>Bitcoin</mark> and alternative currencies.
+    - Built and troubleshoot own mining rig (hardware).
+    - Exploring potential of <mark>Blockchain</mark> technology.
+
+# La Bonne Bouffe
+- company: La Bonne Bouffe
+  position: Head Chef - Consultant Role
+  dates:  Nov, 2016 &mdash; April, 2017
+  description: | # New line
+    Brought in to assist with new restaurant launch
+    - Created and costed menus. Established relationships with suppliers
+    - Hired & trained staff
+    - Responsible for implementing all health and safety standards
+    - Set up the POS system, costing and inventory systems.
+
+# Claire
+- company: Claire’s Chefs
+  position: Freelance Chef
+  dates: Apr, 2014  &mdash; Oct, 2016
+  description: | # New line
+    Specialised in catering for ViP private events and for premium fashion clients.
+
+# Savoy
+- company: The Savoy Hotel
+  position: Jnr. Sous Chef
+  dates: Oct, 2011 &mdash; Nov, 2013
+  description: | # New line
+    Worked in private events, ranging from intimate dining to 600+ banquets
+    - Managed a team of 12 chefs
+    - Responsible for creating daily prep schedules
+    - Co-ordinating events with pastry, front of house, HR and hotel management.

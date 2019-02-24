@@ -1,0 +1,55 @@
+# Education
+- name: edX - Online University level courses
+  qualification: MIT - Introduction to Computer Science and Programming using Python
+  dates: 2017 &mdash; 2018
+  quote: >
+    The Massachusetts Institute of Technology and Harvard University created edX in May 2012. edX is a massive open online course (MOOC) provider. It hosts online university-level courses in a wide range of disciplines to a worldwide student body.
+  description:
+    Simple algorithms, <mark>testing</mark> and <mark>debugging</mark>
+    - Introduction to algorithmic complexity
+    - <mark>Data structures</mark>
+
+- qualification: RIT - Cyber Security Risk Management
+  dates: 2018
+  description:
+    Information security risk management framework and methodologies
+    - Identifying and modeling information <mark>security</mark> risks
+    - Qualitative and quantitative risk assessment methods
+    - Articulating information security risks as business consequences
+
+- qualification: RIT - Cyber Security Fundamentals
+  dates: 2018
+  description:
+    <mark>Network</mark> and system administration fundamentals
+    - Information assurance fundamentals such as confidentiality, integrity and availability, etc.
+    - Basic <mark>cryptography</mark> concepts
+
+- qualification: RIT - Network Security
+  dates: 2018
+  description:
+    Examined the various areas of <mark>network security</mark> including intrusion detection, evidence collection and defense against cyber attacks
+    - Examined the resources available to both intruders and data network administrators to see their effects.
+
+- qualification: RIT - Cyber Security Capstone
+  dates: 2018
+  description: A platform designed to practice and impliment lessons learnt in the previous Cyber Security courses.
+
+- name: Udemy - Online courses
+  qualification: Blockchain Essentials
+  dates: 2017 &mdash; 2018
+  quote: >
+    Udemy.com is an online learning platform. It is aimed at professional adults. No Udemy courses are currently credentialed for college credit; students take courses largely as a means of improving job-related skills.
+  description: Bitcoin concept, Blockchain concept, Mining, Keys, Transactions, Cryptography, Digital Signature, Hashing and Encoding
+
+- qualification: The complete ruby on rails developer course
+  dates: 2018
+  description: A full introduction to <mark>Ruby</mark> followed by <mark>Ruby on Rails</mark>
+
+- qualification: The complete javascript course
+  dates: 2018
+  description: <mark>Javascript</mark> fundimentals from <mark>ES5</mark> to <mark>ES7</mark>. Touching on <mark>CSS</mark> and <mark>HTML</mark>
+
+- name: Olive Chef School, South Africa
+  qualification: Degree in French Cuisine
+  dates: Graduated 2003
+  description: Graduated with a full Le Cordon Bleu degree
