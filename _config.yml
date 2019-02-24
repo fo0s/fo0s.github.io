@@ -38,9 +38,8 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 more_title: When I'm not programming
 more_content: | # this will include new lines to allow paragraphs
-  I have a fasination with all things fermitation. A plethora of bubbling jars in my kitchen eventually turn into breads, pickles or wines.
-  When I'm not playing food scientist or in front on the computer, I'm out running or skateboarding or taking something apart to see how it works.
-
+  I have a fascination with all things fermitation. A plethora of bubbling jars in my kitchen eventually turn into breads, pickles or wines.
+  When I'm not playing food scientist or in front on the computer, I'm out running, skateboarding or taking something apart to see how it works.
 
 # Footer
 footer_show_references: true
